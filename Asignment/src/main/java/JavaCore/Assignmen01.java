@@ -1,3 +1,5 @@
+package JavaCore;
+
 import java.time.LocalDateTime;
 public class Assignmen01 {
     /* bài 1
