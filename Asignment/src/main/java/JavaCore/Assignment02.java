@@ -27,6 +27,8 @@ public class Assignment02 {
         unit9a(8);
         System.out.println("__________________________bai_9b____________________________________________");
         unit9b(5);
+        System.out.println("__________________________bai_9b____________________________________________");
+//        unit10(5);
 
     }
 
@@ -273,4 +275,5 @@ public class Assignment02 {
             System.out.println();
         }
     }
+
 }
