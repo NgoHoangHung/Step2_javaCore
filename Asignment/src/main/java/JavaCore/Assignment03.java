@@ -4,23 +4,20 @@ import java.util.Scanner;
 
 public class Assignment03 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Nhập giá trị cần tham chiếu:");
-        String string = sc.nextLine();
 
-//        System.out.println("input" + string);
-//        System.out.println("output: " +unit01(string));
-//        System.out.println("_______________________Bài1____________________________");
+        System.out.println("input" + "welcome");
+        System.out.println("output: " +unit01("welcome"));
+        System.out.println("_______________________Bài1____________________________");
 
-//        System.out.println("output: " + unit02(string));
-//        System.out.println("_______________________Bài2____________________________");
+        System.out.println("output: " + unit02("techmaster"));
+        System.out.println("_______________________Bài2____________________________");
 //        System.out.println("_________________________________________________________");
 //
-//        System.out.println(unit03(string));
-//        System.out.println("_______________________Bài3____________________________");
+        System.out.println(unit03("gibblegabbler"));
+        System.out.println("_______________________Bài3____________________________");
 //        System.out.println("_________________________________________________________");
 //
-        System.out.println(unit04(test string));
+        System.out.println(unit04("test string"));
         System.out.println("_______________________Bài4____________________________");
 //        System.out.println("_________________________________________________________");
 //
