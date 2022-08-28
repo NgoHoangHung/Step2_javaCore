@@ -17,7 +17,7 @@ public class Assignment03 {
         System.out.println("_______________________Bài3____________________________");
 //        System.out.println("_________________________________________________________");
 //
-        System.out.println(unit04("test string"));
+        System.out.println(unit04("test sstring"));
         System.out.println("_______________________Bài4____________________________");
 //        System.out.println("_________________________________________________________");
 //
@@ -106,8 +106,8 @@ public class Assignment03 {
 
     public static void unit05(String s){
         int n = s.length();
+        System.out.println(s);
         String stringTmp1 = "";
-//        String stringTmp2 = "";
         String output = "";
         int indexTmp = 0;
         for(int i = 0;i<n;i++){
@@ -116,10 +116,20 @@ public class Assignment03 {
                 output = stringTmp1.concat(" ").concat(output);
                 indexTmp = i+1;
             }
-
         }
         output= s.substring(indexTmp).concat(" ".concat(output));
         System.out.println(output);
+//        int j;
+//        for(int i =n-1;i>=0;i--){
+//            if (s.charAt(i)==' ' || i == 0) {
+//                if (i == 0) j = i;
+//                else j = i + 1;
+//                while (j < n && s.charAt(j) != ' ') {
+//                    System.out.print(s.charAt(j));
+//                }
+//            }
+//
+//        }
     }
 }
 
