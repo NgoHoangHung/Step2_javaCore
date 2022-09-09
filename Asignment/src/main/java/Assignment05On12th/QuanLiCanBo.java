@@ -15,7 +15,7 @@ public class QuanLiCanBo {
 
     public int getTotalEmployee(String name){
         for(int i=0; i<totalEmployee; i++){
-            if(name.equals(listEmployee[i].getName()))
+            if(name.equalsIgnoreCase(listEmployee[i].getName()))
                 return i;
         }
         return -1;
