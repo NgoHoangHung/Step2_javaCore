@@ -28,7 +28,9 @@ public class CardManager {
     }
 
     public void read() {
-
+     for(int i =0;i<totalID; i++){
+         System.out.println();
+     }
     }
 
     public void delete(String itemNumberCode) {

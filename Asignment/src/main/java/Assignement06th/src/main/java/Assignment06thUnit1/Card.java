@@ -65,4 +65,15 @@ public class Card {
     public void delete(String cardObj){
 
     }
+
+    @Override
+    public String toString() {
+        return "Card{" +
+                "itemNumberCode='" + itemNumberCode + '\'' +
+                ", BorrowedDate='" + BorrowedDate + '\'' +
+                ", deadlineDate='" + deadlineDate + '\'' +
+                ", BookID='" + BookID + '\'' +
+                ", student=" + student +
+                '}';
+    }
 }
