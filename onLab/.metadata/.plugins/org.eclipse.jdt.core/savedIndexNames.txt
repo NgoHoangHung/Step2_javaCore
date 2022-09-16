@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+H:\Hoc tap\1.FullStack\java14\Step2_javaCore\WorkSpace\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+400568514.index
