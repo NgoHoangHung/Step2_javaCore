@@ -2,8 +2,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class TeacherOfficerManager {
-    static ArrayList<TeacherOfficer> teacherOfficerManager ;
-    public TeacherOfficerManager() {
+    ArrayList<TeacherOfficer> teacherOfficerManager ;
+    public TeacherOfficerManager()
+    {
       teacherOfficerManager = new ArrayList<TeacherOfficer>(100);
     }
 

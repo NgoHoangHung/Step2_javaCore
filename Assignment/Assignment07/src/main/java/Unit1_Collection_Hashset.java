@@ -61,7 +61,7 @@ public class Unit1_Collection_Hashset {
     }
 
     public static void unit1_RepeatAndPrint(HashSet setObj) {
-        Iterator<String> iteratorTmp = setObj.iterator();
+        Iterator<String> iteratorTmp = setObj.iterator();//trả về đối tượng iteratỏ để quản lí danh sách ms đc tạo
         System.out.print("[");
         while (iteratorTmp.hasNext()) {
             System.out.print((String) iteratorTmp.next() + " ");
@@ -99,11 +99,15 @@ public class Unit1_Collection_Hashset {
 //        hashSetObj.clone();
         HashSet<String> newSet = (HashSet<String>) hashSetObj.clone();
         newSet.add("ZZZZ");
+        hashSetObj.add("iii");
 
         //        newSet.map = (HashMap<E, Object>) map.clone();
         for (Object o : newSet) {
-            System.out.println(o);
+            System.out.print(o+ " ");
         }
+        System.out.println();
+        System.out.println(hashSetObj);
+
     }
 
     public static void unit6_ConvertHashSetToArray(HashSet hashSetObj) {
@@ -165,17 +169,9 @@ public class Unit1_Collection_Hashset {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+//tham chiếu tham trị
+//tìm hiểu shalow copy và deep copy
+/*
+tính đa hình được thể hiện qua chữ kí của phương thức tức là giá trị trả về của hàm và tham số truyền vào phương
+thức là giống hệt nhau
+ */

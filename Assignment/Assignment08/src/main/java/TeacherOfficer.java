@@ -41,7 +41,8 @@ public class TeacherOfficer extends Person {
     }
 
     public void setTotalSalary(int totalSalary) {
-        totalSalary = this.getBaseSalary()+this.getBonusSalary()-this.getPenatyMoney();
+//        totalSalary = this.getBaseSalary()+this.getBonusSalary()-this.getPenatyMoney();
+        this.totalSalary = totalSalary;
     }
 
     @Override
