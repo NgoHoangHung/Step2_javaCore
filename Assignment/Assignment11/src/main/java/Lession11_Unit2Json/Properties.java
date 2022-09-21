@@ -1,0 +1,30 @@
+package Lession11_Unit2Json;
+
+public class Properties {
+    private String age;
+    private String salary;
+
+    @Override
+    public String toString() {
+        return "Properties{" +
+                "age=" + age +
+                ", salary=" + salary +
+                '}';
+    }
+
+    public String getAge() {
+        return age;
+    }
+
+    public void setAge(String age) {
+        this.age = age;
+    }
+
+    public String getSalary() {
+        return salary;
+    }
+
+    public void setSalary(String salary) {
+        this.salary = salary;
+    }
+}
