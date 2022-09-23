@@ -1,4 +1,4 @@
-package Lesstion12_Gson;
+package Lesstion11_Gson;
 
 import com.google.gson.annotations.SerializedName;
 import lombok.AllArgsConstructor;
