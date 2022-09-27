@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fa5475ec-aaa7-420a-9175-8d25c490f47d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/dataIO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/person.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession3_JsonToJavaObj_Contrary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession3_Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession4_JsonToJavaObjArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession5_JsonToArraylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession3_JsonToJavaObj_Contrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession3_Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession4_JsonToJavaObjArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession5_JsonToArraylist$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession5_JsonToArraylist.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F9OS6DmG2fUxpFboLUviDHvlpg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "H:/Hoc tap/1.FullStack/java14/Step2_javaCore/Step2_javaCore/Assignment/Assignment12"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa5475ec-aaa7-420a-9175-8d25c490f47d" name="Changes" comment="" />
+      <created>1663900829941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663900829941</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

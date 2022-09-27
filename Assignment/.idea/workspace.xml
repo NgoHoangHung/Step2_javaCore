@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96d0f3d0-8b5b-4790-af4e-3daef9349587" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assignment12/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Document/Exception.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion12_Gson/Lession1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion12_Gson/Lession2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion12_Gson/Lession3_JsonToJavaObj_Contrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession3_JsonToJavaObj_Contrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion12_Gson/Lession3_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession3_Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion12_Gson/Lession4_JsonToJavaObjArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession4_JsonToJavaObjArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion12_Gson/Lession5_JsonToArraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession5_JsonToArraylist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/target/classes/Lesstion12_Gson/Lession1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/target/classes/Lesstion12_Gson/Lession2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/target/classes/Lesstion12_Gson/Lession3_JsonToJavaObj_Contrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/target/classes/Lesstion12_Gson/Lession3_Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/target/classes/Lesstion12_Gson/Lession4_JsonToJavaObjArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/target/classes/Lesstion12_Gson/Lession5_JsonToArraylist$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../outLabPratic/Pratice/target/classes/Lesstion12_Gson/Lession5_JsonToArraylist.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2F2J50ESKFkSzMVH0r01pDpcmel" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/Hoc tap/1.FullStack/java14/Step2_javaCore/Assignment&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96d0f3d0-8b5b-4790-af4e-3daef9349587" name="Changes" comment="" />
+      <created>1663684059671</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663684059671</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
