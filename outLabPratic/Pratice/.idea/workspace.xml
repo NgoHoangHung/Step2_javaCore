@@ -5,9 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64d60dc9-6c47-4b04-97ec-a6c2211f7373" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/../../Assignment/Assignment11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment/Assignment11/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Assignment/Assignment12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assignment/Assignment12/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/dataIO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/person.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesstion11_Gson/Lession1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesstion11_Gson/Lession2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesstion11_Gson/Lession3_JsonToJavaObj_Contrary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesstion11_Gson/Lession3_Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesstion11_Gson/Lession4_JsonToJavaObjArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Lesstion11_Gson/Lession5_JsonToArraylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesstion11_Gson/Lession1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesstion11_Gson/Lession2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesstion11_Gson/Lession3_JsonToJavaObj_Contrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesstion11_Gson/Lession3_Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesstion11_Gson/Lession4_JsonToJavaObjArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesstion11_Gson/Lession5_JsonToArraylist$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lesstion11_Gson/Lession5_JsonToArraylist.class" beforeDir="false" />
+>>>>>>> origin/main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +54,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -49,6 +68,21 @@
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
   }
 }]]></component>
+=======
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ToolWindowStructure.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/Hoc tap/1.FullStack/java14/Step2_javaCore/BankAppProject_EndStage&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
+  }
+}</component>
+>>>>>>> origin/main
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="H:\Hoc tap\1.FullStack\java14\Step2_javaCore\outLabPratic\Pratice\target" />

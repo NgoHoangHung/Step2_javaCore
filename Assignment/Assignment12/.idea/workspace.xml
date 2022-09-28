@@ -5,9 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa5475ec-aaa7-420a-9175-8d25c490f47d" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/../Assignment11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment11/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../outLabPratic/Pratice/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/dataIO.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/person.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession3_JsonToJavaObj_Contrary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession3_Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession4_JsonToJavaObjArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lesstion11_Gson/Lession5_JsonToArraylist.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession3_JsonToJavaObj_Contrary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession3_Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession4_JsonToJavaObjArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession5_JsonToArraylist$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/target/classes/Lesstion11_Gson/Lession5_JsonToArraylist.class" beforeDir="false" />
+>>>>>>> origin/main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +55,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
@@ -58,6 +79,16 @@
       </method>
     </configuration>
   </component>
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "H:/Hoc tap/1.FullStack/java14/Step2_javaCore/Step2_javaCore/Assignment/Assignment12"
+  }
+}]]></component>
+>>>>>>> origin/main
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

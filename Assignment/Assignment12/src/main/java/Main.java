@@ -62,7 +62,7 @@ public class Main {
                 if (array[i] == 100) throw new CustomException("Lỗi 100");
             } catch (CustomException e) {
                 System.out.println("in mảng");
-                for (int j = 0; j <i; j++) {
+                for (int j = 0; j <= i; j++) {
                     System.out.println(array[j]);
                 }
                 System.out.printf("hàm dừng tại vị trí thứ %d",i+1);

@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6923943-da6d-4a44-b094-084c0888e592" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/../Assignment12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment12/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../outLabPratic/Pratice/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/../../Document/Exception.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lession11_InterfaceAnotation/Unit2_Comparetor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../outLabPratic/Pratice/src/main/java/Lession11_InterfaceAnotation/Unit2_Comparetor.java" afterDir="false" />
+>>>>>>> origin/main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +43,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "H:/Hoc tap/1.FullStack/java14/Step2_javaCore/Step2_javaCore/Assignment/Assignment11"
+=======
+    "last_opened_file_path": "H:/Hoc tap/1.FullStack/java14/Step2_javaCore/outLabPratic/Pratice"
+>>>>>>> origin/main
   }
 }]]></component>
   <component name="RunManager" selected="Application.Main">
