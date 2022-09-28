@@ -1,6 +1,4 @@
-package Lesstion11_Anotation;
-
-import java.lang.annotation.*;
+package Lession11_Anotation;
 
 public class Unit1_Deprecated {
     public static void main(String[] args) {

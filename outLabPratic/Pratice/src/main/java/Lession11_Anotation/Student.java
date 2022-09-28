@@ -1,4 +1,4 @@
-package Lesstion11_Anotation;
+package Lession11_Anotation;
 
 public class Student extends Person {
         private String school;

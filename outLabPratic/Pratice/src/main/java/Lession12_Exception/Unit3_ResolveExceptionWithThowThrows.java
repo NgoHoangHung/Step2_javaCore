@@ -1,6 +1,5 @@
-package Lesstion12_;
+package Lession12_Exception;
 
-import java.io.FileReader;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Lesstion12_;
+package Lession12_Exception;
 
 import java.util.Scanner;
 
